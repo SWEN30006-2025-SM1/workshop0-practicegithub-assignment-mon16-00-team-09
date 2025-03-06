@@ -1,7 +1,7 @@
 package example;
 
 public class Calculator {
-    // returns sum of two integers
+    // returns sum of two integers test
     public int add(int a, int b) {
         return a+b;
     }
