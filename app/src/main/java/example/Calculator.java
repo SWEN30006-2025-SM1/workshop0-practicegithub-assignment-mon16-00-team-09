@@ -5,11 +5,14 @@ public class Calculator {
     public int add(int a, int b) {
         return a+b;
     }
+
     // returns difference of two integers
+
     public int minus(int a, int b) {
         return a-b;
     }
     // returns product of two integers
+
     public int multiply(int a, int b) {
         return a*b;
     }
